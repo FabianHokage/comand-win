@@ -1,0 +1,25 @@
+comandos rapidos windows
+_________________________
+comando para abrir Administración de equipos:
+#compmgmt.msc
+
+carpeta oculta que se comparte:
+#sh4r3dF0Ld3r
+
+users y group
+#lusrmgr.msc
+
+performance
+#perfmon
+
+Computer Management
+#compmgmt
+
+Account Control Settings
+#UserAccountControlSettings.exe
+
+command for Windows Troubleshooting
+#C:\Windows\System32\control.exe /name Microsoft.Troubleshooting
+
+panel de control
+#control.exe
